@@ -33,8 +33,6 @@
 
 ### Contribution :
 
-<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=ys-niloy&theme=react-dark&area=true&hide_border=false)">
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=ys-niloy&theme=react-dark&area=true&hide_border=false)"><br><br><br><br>
 
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=ys-niloy&theme=github_dark&show_icons=true" width = "400px"> <img align = "right" src = "https://streak-stats.demolab.com?user=ys-niloy&theme=github-dark-blue" width = "400px"></p> <br><br><br><br><br><br><br><br>
-
-<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ys-niloy&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10" width = "400px">
+<img align = "center" src = "https://streak-stats.demolab.com?user=ys-niloy&theme=github-dark-blue" width = "400px"> <br><br><br><br>
