@@ -1,5 +1,5 @@
 <h1>Hi</h1>
 
-![profile](./sito-web-portfolio.png)
+![profile](./Sito%20Web%20Portfolio.png)
 
 
